@@ -15,7 +15,7 @@
 ------------
 ## 🎯 Result
 - 분류 모델 네개를 사용해 본 결과,  logistic regression이 가장 좋은 성능을 보여 본 모델로 선택하고 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
-<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350776-d73cfa62-53fd-4cc7-a3ce-0b3b5b1d1d76.png">
+![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
 
