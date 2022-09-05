@@ -130,7 +130,7 @@
 <img width="1794" alt="image" src="https://user-images.githubusercontent.com/104750108/188389237-40c76e87-e215-4c86-b81a-7c23e182f23a.png">
   </br>
   </br>
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188390321-50946981-8780-421a-ba27-eb914e639572.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/104750108/188390321-50946981-8780-421a-ba27-eb914e639572.png">
 
   
   </div>
