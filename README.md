@@ -202,7 +202,7 @@
 ## :pencil2: Epilogue
 
 ### [Human performance]
-- hanspell로 맞춤법 검사 -> pycospacing + hanspell 맞춤법 검사</br>
+ < hanspell로 맞춤법 검사 -> pycospacing + hanspell 맞춤법 검사></br>
 ![image (4)](https://user-images.githubusercontent.com/77037338/188397475-946e4af9-6c02-43cf-ba5c-8768d2a92f93.png)</br>
 - 맞춤법 확인 결과, 추가 오류를 발견하였습니다.
 - 따라서 저희가 직접 눈으로 하나씩 보면서 교정하여 문제를 해결하였습니다.</br>
