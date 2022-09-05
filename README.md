@@ -21,7 +21,7 @@
 ------------
 ## 🎯 Result 
 ### Model Selection
-- 본 프로젝트에서는 4가지 분류 모델 빌교 결과, 로지스틱 회귀 모델이 가장 좋은 성능을 보였습니다. 
+- 본 프로젝트에서는 4가지 분류 모델 비교 결과, 로지스틱 회귀 모델이 가장 좋은 성능을 보였습니다. 
 - 때문에 로지스틱 회귀 모델을 기준으로 성능 개선을 시도했습니다. </br>
 ![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
 ### Feature Selection
