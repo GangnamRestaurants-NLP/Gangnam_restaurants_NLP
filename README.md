@@ -10,7 +10,7 @@
 - 그래서 본 프로젝트는 회식 장소를 선정할 때 고려해야 할 사항을 찾아보고자 시작했습니다.
 - 정확히 어떤 데이터를 이용해서 어떤 문제를 해결하는  ... </br></br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/104750108/188346925-1b770b9e-8f78-4477-910c-fa984c4f79b3.gif"></p> </br>
+<p align="center"><img src="https://user-images.githubusercontent.com/104780664/188396090-ccd5bd01-c821-4373-ab1f-ef0e59c57e1c.gif"></p> </br>
 <p align="center"><img width="350" src="https://user-images.githubusercontent.com/104750108/188348582-d80694bc-f418-4958-bc87-c9758d0b2cf7.png">
 <img width="450" src="https://user-images.githubusercontent.com/104750108/188348674-435e5b31-9f33-48e6-ab83-61ce9e249bb1.png"></p>
 
@@ -164,8 +164,6 @@
 - 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
 
 - 딥러닝을 사용한 자연어처리를 진행하지 못해 데이터에 대한 정확도를 올리기가 어려웠음
-
-- 키워드를 통한 분석의 범위를 넓히면(Ex. 블랙리스트 고객, 재방문율 등) 모델의 정확도를 높일 수 있을 것으로 예상
 
 
 ----------
