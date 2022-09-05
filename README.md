@@ -114,8 +114,11 @@
 </details>
 
 ---------
-## EDA
+## 🌟 EDA
 
-<img width="1202" alt="image" src="https://user-images.githubusercontent.com/104750108/188354042-09d488bf-16a1-4ecf-ad6b-df45b63112f3.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354042-09d488bf-16a1-4ecf-ad6b-df45b63112f3.png">
 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354282-0043b736-d9ad-4f1d-b594-053581dc8e6d.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
