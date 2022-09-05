@@ -36,7 +36,7 @@
 
 - 정보 수집 사이트
 ```
-식신(장소 선정), 네이버 마이플레이스(리뷰 수집)
+식신(장소 선정) (<a href="https://www.siksinhot.com/" target="_blank">Link</a>), 네이버 마이플레이스(리뷰 수집) (<a href="https://m.place.naver.com/my/5c0ce7d689a470a61057365e/feed" target="_blank">Link</a>)
 ```
 - 데이터 수집 기간  
 ```
