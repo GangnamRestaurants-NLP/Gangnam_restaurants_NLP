@@ -94,7 +94,7 @@
 <summary>토큰화(Tag)</summary>
 <div markdown="1">
   </br>
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/104750108/188353253-5cc8af79-cbce-4a20-9f8e-ac4983f4dfdf.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/104750108/188353253-5cc8af79-cbce-4a20-9f8e-ac4983f4dfdf.png">
 
   
 </div>
