@@ -19,19 +19,6 @@
 - 3줄 요약
 
 ------------
-## 🎯 Result 
-### Model Selection
-- 본 프로젝트에서는 4가지 분류 모델 비교 결과, 로지스틱 회귀 모델이 가장 좋은 성능을 보였습니다. 
-- 때문에 로지스틱 회귀 모델을 기준으로 성능 개선을 시도했습니다. </br>
-![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
-### Feature Selection
-- tf-idf 보다 countvectorizer 를 하고 ...
-- 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
-<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
-- 모델 정확도 테스트를 위해 랜덤하게 뽑은 158개의 데이터로 검증한 결과, 158개 중 135개를 맞춰 약 85%의 정확도를 보여줬습니다. </br>
-<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
-
-------------
 ## :statue_of_liberty: Data
 
 - 정보 수집 사이트
@@ -151,19 +138,80 @@
 
 ---------
 ## 🌟 EDA
+<p align="center"><img src="https://user-images.githubusercontent.com/77037338/188400214-cf4e3584-45b2-46e7-b3bc-6638ae2adcf0.png"></p>
 
+<details>
+<summary>가게별 남녀 비율 분포도 그래프</summary>
+<div markdown="1">
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354042-09d488bf-16a1-4ecf-ad6b-df45b63112f3.png">
+  
+  </div>
+</details>
 
+<details>
+<summary>리뷰길이 비교</summary>
+<div markdown="1">
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354282-0043b736-d9ad-4f1d-b594-053581dc8e6d.png">
+  
+  </div>
+</details>
 
+<details>
+<summary>식당별 리뷰길이 비교</summary>
+<div markdown="1">
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
+  
+  </div>
+</details>
+
+<details>
+<summary>날짜별 리뷰갯수 추세 확인</summary>
+<div markdown="1">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/77037338/188399828-5809386b-52a4-4f9e-9d22-6ebf48fd82ef.png">
+  
+  </div>
+</details>
+
+<details>
+<summary>날짜별 리뷰 빈도수 비교</summary>
+<div markdown="1">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/77037338/188400101-14919e82-0373-4223-a767-a932ada99f61.png">
+
+  </div>
+</details>
+
+
+
+
+
+
+------------
+## 🎯 Result 
+### Model Selection
+- 본 프로젝트에서는 4가지 분류 모델 비교 결과, 로지스틱 회귀 모델이 가장 좋은 성능을 보였습니다. 
+- 때문에 로지스틱 회귀 모델을 기준으로 성능 개선을 시도했습니다. </br>
+![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
+### Feature Selection
+- tf-idf 보다 countvectorizer 를 하고 ...
+- 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
+- 모델 정확도 테스트를 위해 랜덤하게 뽑은 158개의 데이터로 검증한 결과, 158개 중 135개를 맞춰 약 85%의 정확도를 보여줬습니다. </br>
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
 
 ----------
 ## :pencil2: Epilogue
 
-- 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
+### [Human performance]
+- hanspell로 맞춤법 검사 -> pycospacing + hanspell 맞춤법 검사</br>
+![image (4)](https://user-images.githubusercontent.com/77037338/188397475-946e4af9-6c02-43cf-ba5c-8768d2a92f93.png)</br>
+- 맞춤법 확인 결과, 추가 오류를 발견하였습니다.
+- 따라서 저희가 직접 눈으로 하나씩 보면서 교정하여 문제를 해결하였습니다.</br>
 
-- 딥러닝을 사용한 자연어처리를 진행하지 못해 데이터에 대한 정확도를 올리기가 어려웠음
+
+### [Machine Learning]
+- 데이터 양을 봤을 때 딥러닝을 먼저 사용하기 보다 머신러닝을 사용하여 결과를 확인하였고, 성능을 높이고자 노력했습니다.
+- 결과는 특정 피처 값을 사용하였을 때 88% 이상의 성능이 나와 딥러닝이 아닌 머신러닝 만으로도 충분히 높은 결과를 얻을 수 있었습니다. 
+- 추후에 데이터를 더 많이 모아 딥러닝을 시도해보는 것도 좋을 것 같습니다.</br>
 
 
 ----------
