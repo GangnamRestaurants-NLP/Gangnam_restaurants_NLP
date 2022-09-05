@@ -48,7 +48,7 @@
 ```
 
 ---------
-## 전처리
+## Preprocessing
 
 <details>
 <summary>의미 없는 단어 제거</summary>
@@ -74,6 +74,45 @@
 </details>
 
 
+<details>
+<summary>데이터 카테고리화</summary>
+<div markdown="1">
+  </br>
+<img width="1100" alt="image" src="https://user-images.githubusercontent.com/104750108/188353025-f26e4f11-80a9-46c0-9e55-d96e46bfe35a.png">
+  
+
+</div>
+</details>
 
 
+<details>
+<summary>토큰화(Tag)</summary>
+<div markdown="1">
+  </br>
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/104750108/188353253-5cc8af79-cbce-4a20-9f8e-ac4983f4dfdf.png">
+
+  
+</div>
+</details>
+
+
+
+<details>
+<summary>불용어 처리 & One-Hot Encoding</summary>
+<div markdown="1">
+  
+- 불용어
+  - 한우, 하, 포장, 평양냉면, 탕, 타이, 전복, 전, 재, 우동, 오, 들, 되, 느끼, 네이버, 가 …
+  -> 총 43개의 불용어 제거
+  
+- One-Hot Encoding
+  - 딘타이펑 강남점 : 1, 백억하누 강남본점 : 2, 느린마을 양조장: 3 화기애애 강남역점 : 4 …
+  -> 총 22개의 store_name 변경
+
+  
+</div>
+</details>
+
+---------
+## EDA
 
