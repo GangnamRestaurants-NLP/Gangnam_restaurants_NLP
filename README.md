@@ -35,11 +35,11 @@
 ## :statue_of_liberty: Data
 
 - 정보 수집 사이트
-```
-식신(장소 선정) (<a href="https://www.siksinhot.com/" target="_blank">Link</a>),
 
-네이버 마이플레이스(리뷰 수집) (<a href="https://m.place.naver.com/my/5c0ce7d689a470a61057365e/feed" target="_blank">Link</a>)
-```
+- 식신(장소 선정) (<a href="https://www.siksinhot.com/" target="_blank">Link</a>)
+
+- 네이버 마이플레이스(리뷰 수집) (<a href="https://m.place.naver.com/my/5c0ce7d689a470a61057365e/feed" target="_blank">Link</a>)
+
 - 데이터 수집 기간  
 ```
 2019년 5월 26일 ~ 2022년 8월 19일 --> 약 8000개의 데이터 사용 
