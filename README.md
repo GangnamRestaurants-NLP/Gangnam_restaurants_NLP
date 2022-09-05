@@ -123,7 +123,7 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
 ----------
-## ![image](https://user-images.githubusercontent.com/104750108/188356083-c4dc257e-f1a7-4bd6-a2ac-5973400e93ba.png) 한계점
+## 🤔 한계점
 
 - 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
 
@@ -133,7 +133,7 @@
 
 
 ----------
-## ![image](https://user-images.githubusercontent.com/104750108/188356127-0c87ad9a-69be-4a6e-a907-bf6dbceaf854.png) Reference
+##  Reference
 
 
 - [NLP] LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트 (<a href="https://heytech.tistory.com/401" target="_blank">Link</a>)
