@@ -133,7 +133,7 @@
 
 
 ----------
-## 🔮 Reference
+## ![image](https://user-images.githubusercontent.com/104750108/188356127-0c87ad9a-69be-4a6e-a907-bf6dbceaf854.png) Reference
 
 
 - [NLP] LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트 (<a href="https://heytech.tistory.com/401" target="_blank">Link</a>)
