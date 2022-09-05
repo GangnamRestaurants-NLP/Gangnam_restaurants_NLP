@@ -62,7 +62,12 @@
     
 - 키워드 관련 항목(맛, 맛집, 메뉴 + 음식, 친절 + 직원, 때, 예약, 가격, 분위기, 추천)
 ```
-raw 데이터 프레임 추가!!!
+- 초기 데이터
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/104750108/188386156-2e28e388-90d0-4936-af73-afbee6e9d3a8.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/104750108/188386611-3b38fd77-f8af-4128-8d1d-772fc9b067e3.png">
+
+
+
 
 ---------
 ## 📙 Preprocessing
@@ -130,6 +135,18 @@ raw 데이터 프레임 추가!!!
 </div>
 </details>
 
+<details>
+<summary>최종 데이터</summary>
+<div markdown="1">
+
+
+<img width="1794" alt="image" src="https://user-images.githubusercontent.com/104750108/188389237-40c76e87-e215-4c86-b81a-7c23e182f23a.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188390321-50946981-8780-421a-ba27-eb914e639572.png">
+
+  
+  </div>
+</details>
+
 ---------
 ## 🌟 EDA
 
@@ -140,7 +157,7 @@ raw 데이터 프레임 추가!!!
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
 ----------
-## 🤔 Limitations
+## :pencil2: Epilogue
 
 - 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
 
