@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/104780664/188345812-37b2958a-58ef-4df3-90b9-783db3a9ca42.png)
 
 ------------
-## 🥂 목표
+## 🥂 Project Goal
 - 머신러닝을 이용한 강남역 회식장소 선정에 도움이 되는 리뷰 분류 프로젝트
 
 
-## 🍚 Intro
+## 🍚 Introduction
 - 신입의 경우 회사 근처 식당을 잘 모르기 때문에 회식장소를 선정해야 할 때 고민이 많을 것이라고 생각됩니다.
 그래서 저희는 회식장소를 선정할 때 고려해야 할 사항을 고민해봤습니다.</br></br>
 
@@ -14,7 +14,7 @@
 <img width="450" src="https://user-images.githubusercontent.com/104750108/188348674-435e5b31-9f33-48e6-ab83-61ce9e249bb1.png"></p>
 
 ------------
-## 🎯 Result
+## 🎯 Result 
 - 분류 모델 네개를 사용해 본 결과,  logistic regression이 가장 좋은 성능을 보여 본 모델로 선택하고 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
 ![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
@@ -128,7 +128,7 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
 ----------
-## 🤔 한계점
+## 🤔 Limitations
 
 - 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
 
