@@ -10,8 +10,8 @@
 
 ------------
 ## Result
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188350315-2a4f68a7-168f-49c5-bba9-7fcaf7965166.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188350378-b266f87f-b069-43cc-ac72-6f96959226cc.png">
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350776-d73cfa62-53fd-4cc7-a3ce-0b3b5b1d1d76.png">
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png">
 
 
