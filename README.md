@@ -12,7 +12,7 @@
 ## Result
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188350315-2a4f68a7-168f-49c5-bba9-7fcaf7965166.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188350378-b266f87f-b069-43cc-ac72-6f96959226cc.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/104750108/188350402-d30934bd-6ed4-4dfd-b725-ab0aba7364ec.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188350402-d30934bd-6ed4-4dfd-b725-ab0aba7364ec.png">
 
 
 
