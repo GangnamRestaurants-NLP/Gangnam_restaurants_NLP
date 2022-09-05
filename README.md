@@ -6,24 +6,33 @@
 
 ------------
 ## 🍚 Introduction
-- 신입의 경우 회사 근처 식당을 잘 모르기 때문에 회식장소를 선정해야 할 때 고민이 많을 것이라고 생각됩니다.
-그래서 저희는 회식장소를 선정할 때 고려해야 할 사항을 고민해봤습니다.</br></br>
+- 신입은 회사 근처 식당을 잘 모르기 때문에, 회식장소 찾기가 어렵습니다. 
+- 그래서 본 프로젝트는 회식 장소를 선정할 때 고려해야 할 사항을 찾아보고자 시작했습니다.
+- 정확히 어떤 데이터를 이용해서 어떤 문제를 해결하는  ... </br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/104750108/188346925-1b770b9e-8f78-4477-910c-fa984c4f79b3.gif"></p> </br>
 <p align="center"><img width="350" src="https://user-images.githubusercontent.com/104750108/188348582-d80694bc-f418-4958-bc87-c9758d0b2cf7.png">
 <img width="450" src="https://user-images.githubusercontent.com/104750108/188348674-435e5b31-9f33-48e6-ab83-61ce9e249bb1.png"></p>
 
 ------------
-## 🎯 Result 
-- 분류 모델 4가지를 사용해 본 결과,  logistic regression이 가장 좋은 성능을 보여 본 모델로 선택하고 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
-![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
-<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
-<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
-
-- 모델의 정확도를 확인하기 위해 랜덤하게 고른 새로운 가게 리뷰 158개를 테스트해보았는데 도움이 되는 리뷰 135개를 맞춰 약 85%의 정확도를 보여줬습니다.
+## 🍽 Summary of findings
 
 ------------
-## :statue_of_liberty: Modeling
+## 🎯 Result 
+### Model Selection
+- 본 프로젝트에서는 4가지 분류 모델 빌교 결과, 로지스틱 회귀 모델이 가장 좋은 성능을 보였습니다. 
+- 때문에 로지스틱 회귀 모델을 기준으로 성능 개선을 시도했습니다. </br>
+![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
+### Feature Selection
+- tf-idf 보다 countvectorizer 를 하고 ...
+- 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
+- 모델 정확도 테스트를 위해 랜덤하게 뽑은 158개의 데이터로 검증한 결과, 158개 중 135개를 맞춰 약 85%의 정확도를 보여줬습니다. </br>
+- 모델의 정확도를 확인하기 위해 랜덤하게 고른 새로운 가게 리뷰 158개를 테스트해보았는데 도움이 되는 리뷰 135개를 맞춰 약 85%의 정확도를 보여줬습니다.
+<img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
+
+------------
+## :statue_of_liberty: Data
 
 - 정보 수집 사이트
 ```
@@ -51,6 +60,7 @@
     
 - 키워드 관련 항목(맛, 맛집, 메뉴 + 음식, 친절 + 직원, 때, 예약, 가격, 분위기, 추천)
 ```
+raw 데이터 프레임 추가!!!
 
 ---------
 ## 📙 Preprocessing
