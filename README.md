@@ -123,7 +123,7 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
 ----------
-## 👻 한계점
+## :생각하는_얼굴: 한계점
 
 - 한국어 패키지를 사용하더라도 실제로는 맞춤법을 제대로 적용하지 못해 2차 검수를 진행했어야하는 어려움
 
