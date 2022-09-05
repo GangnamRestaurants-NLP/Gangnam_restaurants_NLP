@@ -127,17 +127,18 @@
 ## 🔮 Reference
 
 
-- [NLP] LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트
+- [NLP] LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트 (<a href="https://heytech.tistory.com/401" target="_blank">Link</a>)
 
-- [ML 공부] 맛집 리뷰를 통한 감성분석 (긍정, 부정 언어 판별) - 210521
+- [ML 공부] 맛집 리뷰를 통한 감성분석 (긍정, 부정 언어 판별) - 210521 (<a href="https://moojuksublime.tistory.com/14" target="_blank">Link</a>)
 
-- [프로젝트] 호텔 리뷰 텍스트 분석 & 분류 모델 제작
+- [프로젝트] 호텔 리뷰 텍스트 분석 & 분류 모델 제작 (<a href="https://hanawithdata.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%B8%ED%85%94-%EB%A6%AC%EB%B7%B0-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B6%84%EC%84%9D-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-%EC%A0%9C%EC%9E%91" target="_blank">Link</a>)
 
-- PyKoSpacing github
+- PyKoSpacing github (<a href="https://github.com/haven-jeon/PyKoSpacing" target="_blank">Link</a>)
 
-- Py-hanspell github
+- Py-hanspell github (<a href="https://github.com/ssut/py-hanspell" target="_blank">Link</a>)
 
-- 한국어 맞춤법/문법 검사기
+- 한국어 맞춤법/문법 검사기 (<a href="http://speller.cs.pusan.ac.kr/" target="_blank">Link</a>)
 
-- 위키독스 - 딥러닝을 이용한 자연어처리 입문
+- 위키독스 - 딥러닝을 이용한 자연어처리 입문 (<a href="https://wikidocs.net/book/2155" target="_blank">Link</a>)
+
 
