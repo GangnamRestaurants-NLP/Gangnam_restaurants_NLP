@@ -192,8 +192,8 @@
 - 때문에 로지스틱 회귀 모델을 기준으로 성능 개선을 시도했습니다. </br>
 ![image](https://user-images.githubusercontent.com/104745357/188358981-295bbca4-9809-445d-bf76-138cbcd2641e.png) </br>
 ### Feature Selection
-- tf-idf 보다 countvectorizer 를 하고 ...
-- 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. </br>
+- 피쳐별로 값을 다르게 하여 모델의 성능을 개선하고자 하였습니다. 
+- 최종적으로 Feature5를 선정하여 학습을 진행하였습니다.</br>
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350747-2aea66a2-062e-434b-bd71-35d8193a9fa8.png">
 - 모델 정확도 테스트를 위해 랜덤하게 뽑은 158개의 데이터로 검증한 결과, 158개 중 135개를 맞춰 약 85%의 정확도를 보여줬습니다. </br>
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/104750108/188350584-74934439-e39d-4039-8da1-6964159d4572.png"> </br>
