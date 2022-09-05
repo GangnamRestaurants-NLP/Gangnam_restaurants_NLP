@@ -8,7 +8,7 @@
 ## 🍚 Introduction
 - 신입은 회사 근처 식당을 잘 모르기 때문에, 회식장소 찾기가 어렵습니다. 
 - 그래서 본 프로젝트는 회식 장소를 선정할 때 고려해야 할 사항을 찾아보고자 시작했습니다.
-- 정확히 어떤 데이터를 이용해서 어떤 문제를 해결하는  ... </br></br>
+- 리뷰 데이터를 이용하여 회식 장소 선정에 도움이 되는 리뷰와 그렇지 않은 리뷰를 분류하는 프로젝트입니다. </br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/104780664/188396090-ccd5bd01-c821-4373-ab1f-ef0e59c57e1c.gif"></p> </br>
 <p align="center"><img width="350" src="https://user-images.githubusercontent.com/104750108/188348582-d80694bc-f418-4958-bc87-c9758d0b2cf7.png">
