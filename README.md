@@ -122,3 +122,22 @@
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104750108/188354345-07b40ea9-c05d-4105-a2c6-aff84f48e4e2.png">
 
+----------
+
+## 🔮 Reference
+
+
+- [NLP] LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트
+
+- [ML 공부] 맛집 리뷰를 통한 감성분석 (긍정, 부정 언어 판별) - 210521
+
+- [프로젝트] 호텔 리뷰 텍스트 분석 & 분류 모델 제작
+
+- PyKoSpacing github
+
+- Py-hanspell github
+
+- 한국어 맞춤법/문법 검사기
+
+- 위키독스 - 딥러닝을 이용한 자연어처리 입문
+
