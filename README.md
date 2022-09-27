@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/104780664/188345812-37b2958a-58ef-4df3-90b9-783db3a9ca42.png)
+![Title](https://user-images.githubusercontent.com/104780664/192462225-cad48241-a823-4229-92f6-7b5ddd89d336.png)
 
 ------------
 ## 🥂 Project Goal
@@ -52,10 +52,8 @@
 - 키워드 관련 항목(맛, 맛집, 메뉴 + 음식, 친절 + 직원, 때, 예약, 가격, 분위기, 추천)
 ```
 - 초기 데이터
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/104750108/188386156-2e28e388-90d0-4936-af73-afbee6e9d3a8.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/104750108/188386611-3b38fd77-f8af-4128-8d1d-772fc9b067e3.png">
 
-
+![initial form](https://user-images.githubusercontent.com/104780664/192462626-552d1fe8-555b-4e59-8c0b-997017d8e5bc.png)
 
 
 ---------
